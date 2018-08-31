@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.Common", "StafftravelManagement.Common\StafftravelManagement.Common.csproj", "{E24D788C-A6C6-4AC9-BE60-99A58A99A6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.Model", "StafftravelManagement.Model\StafftravelManagement.Model.csproj", "{8CE73A4B-5B5F-4EB4-9476-50DC462F8CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.Data", "StafftravelManagement.Data\StafftravelManagement.Data.csproj", "{DF17624E-A07F-44F6-9665-CA103B47B31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.Service", "StafftravelManagement.Service\StafftravelManagement.Service.csproj", "{06886270-9972-4505-9F58-47925940F88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.Web", "StafftravelManagement.Web\StafftravelManagement.Web.csproj", "{EECFB11B-5A84-4EAD-B580-D6BEAE04D07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StafftravelManagement.UnitTest", "StafftravelManagement.UnitTest\StafftravelManagement.UnitTest.csproj", "{03ED57FB-7217-4C05-A36A-8DA866069E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24D788C-A6C6-4AC9-BE60-99A58A99A6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24D788C-A6C6-4AC9-BE60-99A58A99A6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24D788C-A6C6-4AC9-BE60-99A58A99A6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24D788C-A6C6-4AC9-BE60-99A58A99A6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE73A4B-5B5F-4EB4-9476-50DC462F8CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE73A4B-5B5F-4EB4-9476-50DC462F8CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE73A4B-5B5F-4EB4-9476-50DC462F8CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE73A4B-5B5F-4EB4-9476-50DC462F8CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF17624E-A07F-44F6-9665-CA103B47B31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF17624E-A07F-44F6-9665-CA103B47B31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF17624E-A07F-44F6-9665-CA103B47B31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF17624E-A07F-44F6-9665-CA103B47B31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06886270-9972-4505-9F58-47925940F88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06886270-9972-4505-9F58-47925940F88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06886270-9972-4505-9F58-47925940F88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06886270-9972-4505-9F58-47925940F88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECFB11B-5A84-4EAD-B580-D6BEAE04D07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECFB11B-5A84-4EAD-B580-D6BEAE04D07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECFB11B-5A84-4EAD-B580-D6BEAE04D07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECFB11B-5A84-4EAD-B580-D6BEAE04D07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03ED57FB-7217-4C05-A36A-8DA866069E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03ED57FB-7217-4C05-A36A-8DA866069E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03ED57FB-7217-4C05-A36A-8DA866069E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03ED57FB-7217-4C05-A36A-8DA866069E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

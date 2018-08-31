@@ -1,0 +1,4 @@
+D:\Ung Dung Cty MVC\StafftravelManagement\StafftravelManagement.Common\bin\Debug\StafftravelManagement.Common.dll
+D:\Ung Dung Cty MVC\StafftravelManagement\StafftravelManagement.Common\bin\Debug\StafftravelManagement.Common.pdb
+D:\Ung Dung Cty MVC\StafftravelManagement\StafftravelManagement.Common\obj\Debug\StafftravelManagement.Common.dll
+D:\Ung Dung Cty MVC\StafftravelManagement\StafftravelManagement.Common\obj\Debug\StafftravelManagement.Common.pdb
